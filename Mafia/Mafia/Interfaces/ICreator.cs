@@ -7,5 +7,6 @@ namespace Mafia.Interfaces
 {
     interface ICreator
     {
+        ITemplate CreateTemplate();
     }
 }

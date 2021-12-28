@@ -7,5 +7,12 @@ namespace Mafia.Interfaces
 {
     interface ITemplate
     {
+        int SuspectedMafiasInGameCount { get; }
+        int SuspectedDoctorsInGameCount { get; }
+        int SuspectedDetectivesInGameCount { get; }
+        int SuspectedDonesInGameCount { get; }
+        int SuspectedLoversInGameCount { get; }
+        int SuspectedManiacsInGameCount { get; }
+        int SuspectedCitizensInGameCount { get; }
     }
 }
