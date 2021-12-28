@@ -16,7 +16,7 @@ namespace Mafia.Controllers
         [HttpPost]
         public ActionResult GiveRoleToPlayers()
         {
-            GameTemplates.CreatePlayersPreset(PlayersList.Players);
+            RolsGenerator.CreatePlayersPreset(PlayersList.Players);
             return Ok();
         }
 
