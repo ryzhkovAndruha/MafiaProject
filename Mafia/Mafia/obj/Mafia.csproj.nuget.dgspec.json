@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\MafiaProject\\Mafia\\Mafia\\Mafia.csproj": {}
+    "E:\\MafiaWithUvajaemi\\MafiaProject\\Mafia\\Mafia\\Mafia.csproj": {}
   },
   "projects": {
-    "E:\\MafiaProject\\Mafia\\Mafia\\Mafia.csproj": {
+    "E:\\MafiaWithUvajaemi\\MafiaProject\\Mafia\\Mafia\\Mafia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\MafiaProject\\Mafia\\Mafia\\Mafia.csproj",
+        "projectUniqueName": "E:\\MafiaWithUvajaemi\\MafiaProject\\Mafia\\Mafia\\Mafia.csproj",
         "projectName": "Mafia",
-        "projectPath": "E:\\MafiaProject\\Mafia\\Mafia\\Mafia.csproj",
+        "projectPath": "E:\\MafiaWithUvajaemi\\MafiaProject\\Mafia\\Mafia\\Mafia.csproj",
         "packagesPath": "C:\\Users\\ryzhk\\.nuget\\packages\\",
-        "outputPath": "E:\\MafiaProject\\Mafia\\Mafia\\obj\\",
+        "outputPath": "E:\\MafiaWithUvajaemi\\MafiaProject\\Mafia\\Mafia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

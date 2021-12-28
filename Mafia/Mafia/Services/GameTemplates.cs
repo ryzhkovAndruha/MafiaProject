@@ -184,15 +184,10 @@ namespace Mafia.Services
 
         private static void GiveRoles()
         {
-            List<Player> players = new List<Player>(_players);
-
             for (int i = 0; i < _playersCount; i++)
             {
-                var player = players[_random.Next(_playersCount - i)];
+                var player = _players[i];
                 SetRandomRole(player);
-                var playerToSetRole = _players.Where(p => p.ID == player.ID).FirstOrDefault();
-                playerToSetRole.Role = player.Role;
-                players.Remove(player);
             }
         }
 
