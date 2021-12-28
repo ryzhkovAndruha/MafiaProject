@@ -5,7 +5,7 @@ using System.Linq;
 
 namespace Mafia.Services
 {
-    public static class GameTemplates
+    public static class RolesGenerator
     {
         private static int _playersCount;
         private static List<Player> _players;
@@ -26,6 +26,8 @@ namespace Mafia.Services
         private static int _suspectedLoversInGameCount;
         private static int _suspectedManiacsInGameCount;
         private static int _suspectedCitizensInGameCount;
+
+
 
         public static void CreatePlayersPreset(List<Player> players)
         {

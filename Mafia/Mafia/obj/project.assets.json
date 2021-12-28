@@ -193,23 +193,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ryzhk\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\lutse\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MafiaWithUvajaemi\\MafiaProject\\Mafia\\Mafia\\Mafia.csproj",
+      "projectUniqueName": "D:\\MafiaProject\\Mafia\\Mafia\\Mafia.csproj",
       "projectName": "Mafia",
-      "projectPath": "E:\\MafiaWithUvajaemi\\MafiaProject\\Mafia\\Mafia\\Mafia.csproj",
-      "packagesPath": "C:\\Users\\ryzhk\\.nuget\\packages\\",
-      "outputPath": "E:\\MafiaWithUvajaemi\\MafiaProject\\Mafia\\Mafia\\obj\\",
+      "projectPath": "D:\\MafiaProject\\Mafia\\Mafia\\Mafia.csproj",
+      "packagesPath": "C:\\Users\\lutse\\.nuget\\packages\\",
+      "outputPath": "D:\\MafiaProject\\Mafia\\Mafia\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ryzhk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lutse\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
